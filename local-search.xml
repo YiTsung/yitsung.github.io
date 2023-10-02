@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>Git學習筆記1</title>
+    <link href="/2023/10/02/Git%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%981/"/>
+    <url>/2023/10/02/Git%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%981/</url>
+    
+    <content type="html"><![CDATA[<h1 id="什麼是版本控制"><a href="#什麼是版本控制" class="headerlink" title="什麼是版本控制"></a>什麼是版本控制</h1><p>讓你可以存檔讀檔，就跟打遊戲一樣!</p><ul><li>打魔王如果死掉可以讀檔重來</li><li>有多線結局的話，可以存檔去做不同選擇</li><li>工作履歷v1、工作履歷v2……v13等等之類</li><li>編成也可以</li></ul><h1 id="在Window上安裝Git流程"><a href="#在Window上安裝Git流程" class="headerlink" title="在Window上安裝Git流程"></a>在Window上安裝Git流程</h1><ol><li>連結到<a href="https://git-scm.com/">Git官網</a></li><li>首頁下方有<strong>Downloads(下載)</strong> 官網會判斷你的系統給你最符合的版本</li><li>下載後啟動執行檔，一路下一步即可安裝完成</li></ol>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Git</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/09/22/hello-world/"/>
     <url>/2023/09/22/hello-world/</url>
